@@ -18,6 +18,7 @@ Permissions beyond the scope of this license may be available at http://miuiandr
 Last modified 06 / 22 / 2013 (Jun 2013)
 
 MIUI Translation: David Peng, TBD
+
 MIUI Support: David Peng, ingbrzy
 
 ---------------------------------------------------------------------------------------------
